@@ -27,8 +27,6 @@ public class CountWordsinString {
 		}
 		
 		System.out.println("Number of words:" + count);
-		System.out.println("NIcks");
-		System.out.println("Sharma");
 		
 		
 		
