@@ -19,14 +19,16 @@ public class CountWordsinString {
 		for(int i=0;i<str.length();i++) {
 			
 			if((str.charAt(i)==' ') && (str.charAt(i+1)!=' ')){
+
 				count++;
+
 						
 			}
 			
 			
 		}
 		
-		System.out.println("Number of words:" + count);
+		System.out.println("Number of words in string:" + count);
 
 		
 		

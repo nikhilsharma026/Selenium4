@@ -1,2 +1,2 @@
 # Selenium4
-Sample test project for learning purpose
+Sample test project for learning purpose part1
